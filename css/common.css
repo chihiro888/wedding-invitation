@@ -828,7 +828,7 @@ body{background:url("/mobile/new_m/mcard/images/common/bg_white.jpg") 0 0 repeat
 }
 
 .location-section{
-	padding:3.125rem 0 0;
+	/* padding:3.125rem 0 0; */
 }
 .location-section .head{
 	position:relative;
